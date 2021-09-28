@@ -55,9 +55,9 @@ hr{color:#8f9296;}
 
 
 .card { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.75); max-width: 355px; margin: auto; text-align: center; font-family: arial; }
-.buttona { display: block; padding: 98px 20px; text-align: center; text-decoration: none; color: white; background-image: url("../img/Tonisweb.png"); background-position: center; background-repeat: no-repeat; background-size: cover; border-radius: 6px; outline: none; border: 2px solid #1799e7; }
-.buttonb { display: block; padding: 75px 20px; text-align: center; text-decoration: none; color: white; background-image: url("../img/Instantweb.png"); background-position: center; background-repeat: no-repeat; background-size: cover; border-radius: 6px; outline: none; border: 2px solid #4CAF50; }
-.buttonc { display: block; padding: 75px 20px; text-align: center; text-decoration: none; color: white; background-image: url("../img/Passatweb.png"); background-position: center; background-repeat: no-repeat; background-size: cover; border-radius: 6px; outline: none; border: 2px solid #8e13c5; }
+.buttona { display: block; padding: 98px 20px; text-align: center; text-decoration: none; color: white; background-image: url("../Img/Tonisweb.png"); background-position: center; background-repeat: no-repeat; background-size: cover; border-radius: 6px; outline: none; border: 2px solid #1799e7; }
+.buttonb { display: block; padding: 75px 20px; text-align: center; text-decoration: none; color: white; background-image: url("../Img/Instantweb.png"); background-position: center; background-repeat: no-repeat; background-size: cover; border-radius: 6px; outline: none; border: 2px solid #4CAF50; }
+.buttonc { display: block; padding: 75px 20px; text-align: center; text-decoration: none; color: white; background-image: url("../Img/Passatweb.png"); background-position: center; background-repeat: no-repeat; background-size: cover; border-radius: 6px; outline: none; border: 2px solid #8e13c5; }
 .button21 { border: none; outline: 0; display: inline-block; padding: 8px; color: white; background-color: red; text-align: center; cursor: pointer; width: 100%; font-size: 18px; }
 button:hover, a:hover { opacity: 0.7; }
 
